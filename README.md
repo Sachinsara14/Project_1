@@ -19,4 +19,4 @@
     python Quick_bed_sort.py
     ```
 
-**Output:** The script creates a file `X.standard.sorted.bed` containing the final merged and sorted BED file.
+**Output:** The script creates a file `X.standard.sorted.bed` containing the final sorted BED file.
