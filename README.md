@@ -3,7 +3,7 @@
 **Goal:** Merge multiple compressed BED files, filter them against a "chromosome rulebook," and sort them first by chromosome (custom order) and then by start position.
 
 ### Files
-* `project1.py`: The main Python script.
+* `Quick_bed_sort.py`: The main Python script.
 * `standard_selection.tsv`: A text file listing chromosomes to keep, in the specific desired order.
 
 ### Setup & Usage
