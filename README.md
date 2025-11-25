@@ -1,4 +1,4 @@
-## 🧬 Project 1: Quick Bed Sort
+## Project 1: Quick Bed Sort
 
 **Goal:** Merge multiple compressed BED files, filter them against a "chromosome rulebook," and sort them first by chromosome (custom order) and then by start position.
 
