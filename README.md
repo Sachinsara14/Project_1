@@ -16,7 +16,7 @@
 
 2.  **Run the Script:**
     ```bash
-    python3 project1.py
+    python project1.py
     ```
 
 **Output:** The script creates a directory `sorted_bed_file_per_sample/` containing the final merged and sorted BED file.
