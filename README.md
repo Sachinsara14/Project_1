@@ -16,7 +16,7 @@
 
 2.  **Run the Script:**
     ```bash
-    python project1.py
+    python Quick_bed_sort.py
     ```
 
 **Output:** The script creates a file `X.standard.sorted.bed` containing the final merged and sorted BED file.
