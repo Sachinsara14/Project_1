@@ -19,4 +19,4 @@
     python project1.py
     ```
 
-**Output:** The script creates a directory `sorted_bed_file_per_sample/` containing the final merged and sorted BED file.
+**Output:** The script creates a file `X.standard.sorted.bed` containing the final merged and sorted BED file.
