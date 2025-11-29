@@ -24,7 +24,7 @@ for bed_file in file_list:
         data_to_sort[chromosome].append(line)
 
 
-open_filename = "sorted_bed_file_per_sample/X.standard.sorted.bed"
+open_filename = "X.standard.sorted.bed"
 
 with open(open_filename, "w") as out_file:
   for chromosome in chromosome_order:
